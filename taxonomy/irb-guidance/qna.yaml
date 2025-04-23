@@ -1,0 +1,149 @@
+version: 3
+domain: Clinical Research Protocols
+created_by: Team 1
+document_outline: |
+  Comprehensive ethical principles and regulatory requirements for conducting human subjects research, ensuring the protection of participants' rights and welfare.
+seed_examples:
+  - context: |
+      All institutions (U.S. and international) engaged in the conduct of research funded by a U.S. federal agency must obtain a federal-wide assurance (FWA) with HHS. FWA is an assurance of compliance with the U.S. Federal Policy for the Protection of Human Subjects ('Common Rule'). Common Rule and the applicable subparts apply to international sites engaged in non-exempt research supported by HHS. See the Resources section below for additional information about obtaining FWAs.
+      The IRB will review the research, taking into consideration the local context review, if required, and other legal requirements. The application should include a description of Mass General Brigham's role in the research, as well as information about the procedures that will be conducted at the international site and the name of the EC/IRB that will provide oversight. The IRB will obtain and consider information about the performance site and study population appropriate to the procedures involved in the research and the degree of risk to participants. The review may include some or all the following information:
+        - · The anticipated scope of the research activities that will take place at the site;
+        - · The size and complexity of the institution/facility/entity;
+        - · Standards of professional conduct and practice;
+        - · Policies and procedures of site at which off-site research will occur;
+        - · Applicable laws and regulations;
+        - · The types of participant populations likely to be involved;
+        - · Language(s) understood by prospective participants;
+        - · Method for equitable selection of participants;
+        - · Method for minimizing the possibility of coercion or undue influence in seeking consent;
+        - · Method for protection of privacy of participants;
+        - · Method for maintenance of confidentiality of data; and
+        - · Safeguards to protect the rights and welfare of vulnerable participants;
+
+        All modifications and reportable events (even if they occur at an international site) must be submitted to the Mass General Brigham IRB according to the IRB policy. The EC/IRB's approval or acknowledgment for amendments and
+
+        reportable events should also be submitted. Submissions should be submitted to the EC/IRB at the international site before being submitted to the Mass General Brigham IRB. If the EC requires documentation of Mass General Brigham IRB approval, Mass General Brigham IRB may provide an approval contingent upon receipt of the EC approval letter.
+
+        Reportable events that occur at international sites (e.g., unanticipated problems, major deviations) must be submitted to the Mass General Brigham IRB in accordance with IRB policies. Even if limited or preliminary information is available and the study team is still collecting information, the IRB must be informed within the specified reporting window (i.e., within 5 business days) by submitting an Other Event in Insight.
+    questions_and_answers:
+      - question: |
+          What assurance is required to conduct research funded by a U.S. federal agency?
+        answer: |
+          All instituations are required to obtain a federal-wide assurance (FWA) that ensures compliance with the U.S. Federal Policy for Protection of Human Subjects.
+      - question: |
+          What is required in the applictoin for a FWA?
+        answer: |
+          The application should include a description of Mass General Brigham's roles in the research, information about the procedures that will be conducted at the international site and the name of the IRB that will be providing oversight.
+      - question: |
+          Where do reportable events need to be submitted?
+        answer: |
+          Reportable events must be submitted to Mass General Brigham IRB within the specified window (i.e., within 5 business days).
+  - context: |
+      Research that is supported by the Department of Defense (DoD) or one of its components (e.g., Army, Air Force, Navy and Marine Corps) through a contract, grant, cooperative agreement, or other arrangement with Mass General Brigham must comply with DoD Regulations for 'Protection of Human Subjects' at 32 CFR 219 and with DoD Instruction 3216.02. Other DoD component-specific requirements may also apply depending on the study.
+
+      This guidance is intended to highlight some of the primary issues for investigators when conducting DoD-supported research but is not a substitute for investigators to obtain project-specific information about DoD's requirements from the applicable DoD human research protection administrator as directed below. Investigators are expected to include information relevant to and address any applicable DoD requirements in their protocol submissions.
+
+      When Mass General Brigham receives DoD funding for human-subjects research, the recipient institution, at the request of DoD, will sign a DoD Addendum to its Federal wide Assurance (FWA) attesting that the institution will comply with applicable federal regulations and DoD requirements for the protection of human subjects in research.
+
+      The DoD and its components have adopted the 'Common Rule' Federal policy for the protection of human subjects in research. DoD's implementation of the Common Rule is found at 32 CFR Part 219. Additional DoD policies and requirements for the protection of human subjects are described in DoD Instruction 3216.02.
+
+      Most of the DoD requirements outlined in DoD Instruction 3216.02 are consistent with Mass General Brigham Human Research Office policies and procedures. However, the DoD has imposed certain restrictions on the use of surrogate consent and waiver of informed consent and additional protections for research participants involving greater than minimal risk.
+
+      Investigators should be aware of these and other additional requirements when developing proposals for DoD support. Some of the main additional requirements are described below.
+
+      Because components of DoD may have additional requirements for human subject protection, investigators should obtain DoD component-specific requirements from the applicable DoD human research protection administrator when applying for funding.
+    questions_and_answers:
+      - question: |
+          What is required when Mass General Brigham receives Department of Defense (DoD) funding for human-subjects research?
+        answer: |
+          A DoD Addeendum to the Federal Wide Assurance (FWA) is required to attest that the instituation will comply with DoD human rights protection requirements
+      - question: |
+          What restrictions are imposed that deviate from 'Common Rule' requirements for the DoD?
+        answer: |
+          The DoD restricts the use of surrogate consent and waiver of informed consent.
+      - question: |
+          What DoD regulations are required to be met for research involving the DoD?
+        answer: |
+          Instituations must compy with DoD Regulations for 'Protection of Human Subjects' at 32 CFR 219. 
+  - context: |
+      ## 3 Recruitment
+      ## 3.1 Recruitment of Participants Identified Through Private Medical Information
+      Recruitment efforts frequently target individuals known to have a specific medical condition. Medical records, patient registries, clinical databases and referrals from treating physicians can be useful resources to identify potential participants; however, it is essential to take special precautions to ensure that patient privacy is protected and that the individual patient is appropriate to participate in the research.
+      ## 3.2 Inpatient Recruitment
+      Through the review of medical records, study teams may identify potential participants who are receiving inpatient care. The study team cannot directly approach the potential participant.  Two steps need to occur prior to approaching the patient about research recruitment. Research staff should first discuss this with the primary clinical team to ensure it is clinically appropriate to approach the participant about research participation. If so, a staff member known to the patient from clinical care (i.e., any staff member known to the participant from clinical care, it does not have to be the treating clinician) or administrative staff should ask the patient if they are interested in speaking to research staff prior to research staff direct approach.
+      ## 3.3 Outpatient Recruitment
+      Study teams should obtain appropriate leadership approval if the study proposes to recruit from outpatient clinics. This documentation should be submitted with the IRB submission, along with a description of the workflow for how recruitment will occur in the outpatient setting. Study teams can directly approach potential participants in outpatient clinics if the clinic has provided approval. Flyers can be distributed or placed in waiting rooms with appropriate permissions. To protect patient privacy and confidentiality of data, recruitment should always occur in private settings and not in waiting rooms.
+      When recruiting within one's department, researchers should follow department policies and obtain approval as needed. For instance, study staff 'cold-calling' patients in the waiting room of the clinic or directly approaching people without consent from clinical team or administrative staff in the waiting room may not be permitted by the department.
+    questions_and_answers:
+      - question: |
+          What steps are required to approach an inpatient about research participation?
+        answer: |
+          First you should discuss with the primary clinical team to ensure study is appropriate. If so, a staff member known to the patient should ask the patient if they are interested in speaking to the reseach staff prior to research staff directly approaching the patient.
+      - question: |
+          Can I distribute flyers for outpatient recruitment?
+        answer: |
+          Yes, flyers can be distributed or placed in waiting rooms with appropriate permissions. Note: Recruitment should always occur in private settings and not in waiting rooms.
+      - question: |
+          Can I recruit participants identified through private medical information?
+        answer: |
+          Yes, but it is essential to take special precautions to ensure that patient privacy is protected. You may be required to follow specific guidelines for both inpatient and outpatient recruitment.
+  - context: |
+      When a person cannot read the consent form, the entire consent form may be read aloud to the person, provided as an audio recording that the person can listen to, provided in an electronic format that the computer can read to the person or, for persons who are visually impaired and able to read Braille, in Braille. These formats afford people who cannot read the consent form with equivalent consent procedures and an accessible version of the consent document for their records. When the consent form is provided in a recording, electronic format, or in Braille, the investigator or person obtaining informed consent should confirm that the participant listened to the audio version or electronic consent form or read the Braille consent form when they begin the consent discussion and provide an opportunity to review the information and ask questions. When enrollment of participants who cannot read the consent form is anticipated, the protocol submission should include a description of the process for obtaining and documenting informed consent of participants who cannot read the consent form.
+    questions_and_answers:
+      - question: |
+          Who should confirm the use of non-standard consent formats and why is this important?
+        answer: |
+          The investigator or the person responsible for obtaining the informed consent should confirm that the participant has accessed and understood the non-standard consent formats (audio, electronic, or Braille). This step is crucial to ensure that participants with visual impairments or reading difficulties are provided with the same level of information and comprehension as those who can read the standard consent form.
+      - question: |
+          How can a person who cannot read the consent form be accommodated?
+        answer: |
+          The consent form can be provided in various accessible formats for individuals who cannot read the standard written consent form. These include reading the form aloud, providing an audio recording, presenting it in an electronic format that a computer can read aloud, or offering it in Braille for visually impaired individuals who can read Braille.
+      - question: |
+          What additional steps should be taken when using non-standard consent formats?
+        answer: |
+          When using non-standard consent formats such as recordings, electronic versions, or Braille, the investigator or person obtaining consent should verify that the participant has listened to or reviewed the audio/electronic version or read the Braille form before starting the consent discussion. If enrollment of participants who cannot read the standard form is anticipated, this process should be described in the protocol submission.
+  - context: |
+      In certain situations, the IRB will require the use of a participant advocate in the consent process. The participant advocate is an individual who has no vested interest in the research and who agrees to act as an impartial third party in the consent process.  When a participant advocate is appointed, the participant advocate is expected to act in the best interests of the participant by sharing in discussions with the investigator and with those responsible for giving consent. Individuals who might fulfill this role include a health care professional knowledgeable about, but not involved in, the research. Psychiatrists, social workers, or nurses, all typically with specialized expertise in a given field of medicine, have been chosen as advocates in studies supervised by the IRB. Advocates should be formally identified and may be paid for their time. The participant advocate is responsible for ensuring that the participant understands the research procedures and the risks and potential benefits of participation and that their consent is free and voluntary. When a participant advocate is used, the participant advocate must sign and date the consent form.
+
+      Situations in which the use of a participant advocate may be required include:
+
+      - · when the risks to participants are significant and the participant is the patient of  the investigator and, as such, may feel obligated to participate;
+      - · when consent is to be obtained in the emergency room or in an emergency situation when the time frame to obtain consent prior to start of study-related procedures is limited;
+      - · when surrogate consent is to be obtained for research involving more than minimal risk with little or no potential for direct benefit to the participant;
+      - · when exceptionally challenging or risky research is performed; or
+      - · when many potential participants are expected to overestimate the likelihood of health benefits.
+    questions_and_answers:
+      - question: |
+          In what scenarios I should include a participant advocate during the consent process?
+        answer: |
+          You should consider including a participant advocate when the risks to the participants are significant, or when the risks of participating in the study greatly exceeds the benefits.
+      - question: |
+          Who should be considered as a participant advocate?
+        answer: |
+          Typically, individuals who fulfill this role are health care professional (HCPs) knowledgeable about, but not directly involved in, the research. Professions that usually fulfill this role include psychiatrists, social workers, and nurses.
+      - question: |
+          What is the main responsibility of the participant advocate?
+        answer: |          
+          The main responsibility of the participant advocate is to ensure that the participant fully understands the research procedures, the associated risks, and the potential benefits of participation. The participant advocate acts as an impartial third party during the consent process, sharing discussions with the research investigator and those giving consent.
+  - context: |
+      Usually, two copies of the signed and dated research consent form are needed. The original signed and dated research consent form should be retained in the research records. A copy of the signed and dated research consent form must be given to the participant. Lastly, the consent should be scanned/uploaded in the participant's medical record if relevant to the participant's ongoing medical care, or the participant is hospitalized when the research is initiated or hospitalization is expected (for example, an investigational device will be implanted during an upcoming procedure requiring hospitalization).
+
+      If the study involves sensitive research (e.g., alcohol or drug use, studies of illegal behaviors, and some genetic studies) a copy of the research consent form ordinarily should not be placed in the participant's medical record. Studies involving psychiatric illness, genetics and HIV infection should not automatically be presumed to be sensitive studies and excluded from the medical record. In the interests of participant safety, the IRB encourages sharing of information about research participation with treating clinicians and has a high bar for excluding research documentation from the medical record. If a study has no medical interventions (for example, longitudinal exams and surveys of outpatients or research involving non-patient healthy volunteers) investigators are not required to include consent forms in medical records.
+    questions_and_answers:
+      - question: |
+          How many copies of the signed consent form are typically required?
+        answer: |
+          Usually, two copies of the signed and dated research consent form are needed. One original copy is kept in the research records, while the other copy is given to the participant.
+      - question: |
+          Under what conditions should the consent form be scanned or uploaded into the participant's medical record?
+        answer: |
+          The consent form should be scanned and uploaded into the participant's medical record if the research is relevant to the participant's ongoing medical care, or if hospitalization is expected at the time of research initiation or during the course of the research.
+      - question: |
+          How should sensitive research studies handle the placement of consent forms in the participant's medical record?
+        answer: |
+          For sensitive research studies (such as those involving alcohol or drug use, illegal behaviors, and some genetic studies), a copy of the research consent form ordinarily should not be placed in the participant's medical record. Studies involving psychiatric illness, genetics, or HIV infection should not automatically be excluded from the medical record. The IRB encourages sharing information about research participation with treating clinicians for participant safety.
+document:
+  repo: 'https://github.com/mclarac/InstructLab-Training-MGB.git'
+  commit: e05d2fb94dc8879a9b56023b2fbde243db40c8f3
+  patterns:
+    - 'out/mgb-irb-guidance.md'
