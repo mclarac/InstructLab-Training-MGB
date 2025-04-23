@@ -253,5 +253,4 @@ document:
   repo: 'https://github.com/mclarac/InstructLab-Training-MGB.git'
   commit: 520e4af1f4683008e131ae3a7c755400baf7959f
   patterns:
-    - 'out/mgb-irb-guidance.md'
     - 'out/mgb-policy-interactions-industry.md'
