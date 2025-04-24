@@ -147,4 +147,3 @@ document:
   commit: e05d2fb94dc8879a9b56023b2fbde243db40c8f3
   patterns:
     - 'out/mgb-irb-guidance.md'
-    
