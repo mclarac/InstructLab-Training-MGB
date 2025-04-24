@@ -64,7 +64,7 @@ seed_examples:
       - question: |
           What DoD regulations are required to be met for research involving the DoD?
         answer: |
-          For research involving the DoD, Instituations must compy with DoD Regulations for 'Protection of Human Subjects' at 32 CFR 219. 
+          For research involving the DoD, Instituations must compy with DoD Regulations for 'Protection of Human Subjects' at 32 CFR 219.
   - context: |
       ## 3 Recruitment
       ## 3.1 Recruitment of Participants Identified Through Private Medical Information
@@ -123,7 +123,7 @@ seed_examples:
           Typically, individuals who fulfill this role are health care professional (HCPs) knowledgeable about, but not directly involved in, the research should be considered as a participant advocate. Professions that usually fulfill this role include psychiatrists, social workers, and nurses.
       - question: |
           What is the main responsibility of the participant advocate?
-        answer: |          
+        answer: |
           The main responsibility of the participant advocate is to ensure that the participant fully understands the research procedures, the associated risks, and the potential benefits of participation. The participant advocate acts as an impartial third party during the consent process, sharing discussions with the research investigator and those giving consent.
   - context: |
       Usually, two copies of the signed and dated research consent form are needed. The original signed and dated research consent form should be retained in the research records. A copy of the signed and dated research consent form must be given to the participant. Lastly, the consent should be scanned/uploaded in the participant's medical record if relevant to the participant's ongoing medical care, or the participant is hospitalized when the research is initiated or hospitalization is expected (for example, an investigational device will be implanted during an upcoming procedure requiring hospitalization).
@@ -147,3 +147,4 @@ document:
   commit: e05d2fb94dc8879a9b56023b2fbde243db40c8f3
   patterns:
     - 'out/mgb-irb-guidance.md'
+    
