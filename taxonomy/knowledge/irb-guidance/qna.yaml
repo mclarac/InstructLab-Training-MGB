@@ -29,11 +29,11 @@ seed_examples:
       - question: |
           What assurance is required to conduct research funded by a U.S. federal agency?
         answer: |
-          All instituations are required to obtain a federal-wide assurance (FWA) that ensures compliance with the U.S. Federal Policy for Protection of Human Subjects.
+          To conduce research funded by a U.S. federal agency, all institutions are required to obtain a federal-wide assurance (FWA) that ensures compliance with the U.S. Federal Policy for Protection of Human Subjects.
       - question: |
           What is required in the applictoin for a FWA?
         answer: |
-          The application should include a description of Mass General Brigham's roles in the research, information about the procedures that will be conducted at the international site and the name of the IRB that will be providing oversight.
+          For a FWA to be obtained, the IRB will review the research, taking into consideration the local context review, if required, and other legal requirements. The application should include a description of Mass General Brigham's roles in the research, information about the procedures that will be conducted at the international site and the name of the IRB that will be providing oversight.
       - question: |
           Where do reportable events need to be submitted?
         answer: |
@@ -56,15 +56,15 @@ seed_examples:
       - question: |
           What is required when Mass General Brigham receives Department of Defense (DoD) funding for human-subjects research?
         answer: |
-          A DoD Addeendum to the Federal Wide Assurance (FWA) is required to attest that the instituation will comply with DoD human rights protection requirements
+          To receive defense funding, a DoD Addeendum to the Federal Wide Assurance (FWA) is required to attest that the instituation will comply with DoD human rights protection requirements
       - question: |
           What restrictions are imposed that deviate from 'Common Rule' requirements for the DoD?
         answer: |
-          The DoD restricts the use of surrogate consent and waiver of informed consent.
+          The DoD has imposed restrictions that deviate from 'Common Rule' requirements including the use of surrogate consent and waiver of informed consent.
       - question: |
           What DoD regulations are required to be met for research involving the DoD?
         answer: |
-          Instituations must compy with DoD Regulations for 'Protection of Human Subjects' at 32 CFR 219. 
+          For research involving the DoD, Instituations must compy with DoD Regulations for 'Protection of Human Subjects' at 32 CFR 219. 
   - context: |
       ## 3 Recruitment
       ## 3.1 Recruitment of Participants Identified Through Private Medical Information
@@ -78,7 +78,7 @@ seed_examples:
       - question: |
           What steps are required to approach an inpatient about research participation?
         answer: |
-          First you should discuss with the primary clinical team to ensure study is appropriate. If so, a staff member known to the patient should ask the patient if they are interested in speaking to the reseach staff prior to research staff directly approaching the patient.
+          To approach an inpatient about research, First you should discuss with the primary clinical team to ensure study is appropriate. If so, a staff member known to the patient should ask the patient if they are interested in speaking to the reseach staff prior to research staff directly approaching the patient.
       - question: |
           Can I distribute flyers for outpatient recruitment?
         answer: |
@@ -86,14 +86,14 @@ seed_examples:
       - question: |
           Can I recruit participants identified through private medical information?
         answer: |
-          Yes, but it is essential to take special precautions to ensure that patient privacy is protected. You may be required to follow specific guidelines for both inpatient and outpatient recruitment.
+          Yes, you can recruit participants identitied through private medical information, but it is essential to take special precautions to ensure that patient privacy is protected. You may be required to follow specific guidelines for both inpatient and outpatient recruitment.
   - context: |
       When a person cannot read the consent form, the entire consent form may be read aloud to the person, provided as an audio recording that the person can listen to, provided in an electronic format that the computer can read to the person or, for persons who are visually impaired and able to read Braille, in Braille. These formats afford people who cannot read the consent form with equivalent consent procedures and an accessible version of the consent document for their records. When the consent form is provided in a recording, electronic format, or in Braille, the investigator or person obtaining informed consent should confirm that the participant listened to the audio version or electronic consent form or read the Braille consent form when they begin the consent discussion and provide an opportunity to review the information and ask questions. When enrollment of participants who cannot read the consent form is anticipated, the protocol submission should include a description of the process for obtaining and documenting informed consent of participants who cannot read the consent form.
     questions_and_answers:
       - question: |
           Who should confirm the use of non-standard consent formats and why is this important?
         answer: |
-          The investigator or the person responsible for obtaining the informed consent should confirm that the participant has accessed and understood the non-standard consent formats (audio, electronic, or Braille). This step is crucial to ensure that participants with visual impairments or reading difficulties are provided with the same level of information and comprehension as those who can read the standard consent form.
+          To confirm the use of non-standard consent formats, The investigator or the person responsible for obtaining the informed consent should confirm that the participant has accessed and understood the non-standard consent formats (audio, electronic, or Braille). This step is crucial to ensure that participants with visual impairments or reading difficulties are provided with the same level of information and comprehension as those who can read the standard consent form.
       - question: |
           How can a person who cannot read the consent form be accommodated?
         answer: |
@@ -114,13 +114,13 @@ seed_examples:
       - · when many potential participants are expected to overestimate the likelihood of health benefits.
     questions_and_answers:
       - question: |
-          In what scenarios I should include a participant advocate during the consent process?
+          In what scenarios should I include a participant advocate during the consent process?
         answer: |
           You should consider including a participant advocate when the risks to the participants are significant, or when the risks of participating in the study greatly exceeds the benefits.
       - question: |
           Who should be considered as a participant advocate?
         answer: |
-          Typically, individuals who fulfill this role are health care professional (HCPs) knowledgeable about, but not directly involved in, the research. Professions that usually fulfill this role include psychiatrists, social workers, and nurses.
+          Typically, individuals who fulfill this role are health care professional (HCPs) knowledgeable about, but not directly involved in, the research should be considered as a participant advocate. Professions that usually fulfill this role include psychiatrists, social workers, and nurses.
       - question: |
           What is the main responsibility of the participant advocate?
         answer: |          
